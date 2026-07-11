@@ -1,4 +1,4 @@
 {
-  "luck_multiplier": 2.0,
-  "forced_events": ["gold","admin_abuse"]
+  "luck_multiplier": 1.0,
+  "forced_events": []
 }
