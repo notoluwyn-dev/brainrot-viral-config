@@ -1,4 +1,4 @@
 {
-  "luck_multiplier": 5.0,
-  "forced_events": ["diamond"]
+  "luck_multiplier": 1.0,
+  "forced_events": []
 }
