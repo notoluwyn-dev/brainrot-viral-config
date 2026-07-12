@@ -6,3 +6,8 @@
   "season_xp_multiplier": 2.0,
   "rarity_boost": { "4": 1.5, "5": 2.0, "6": 2.5 }
 }
+{
+  "popup_message": "🎃 BIENVENIDOS AL ADMIN ABUSE 🎃",
+  "popup_color": "#ff8800",
+  "popup_duration": 5.0
+}
