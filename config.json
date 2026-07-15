@@ -1,6 +1,6 @@
 {
   "luck_multiplier": 100.0,
-  "forced_events": ["halloween", "love", "gold", "diamond", "rainbow"],
+  "forced_events": ["halloween", "love", "gold", "diamond", "rainbow", "admin_abuse"],
   "announcement": "LUCK x100 !!",
   "announcement_color": "#FFD700",
   "season_xp_multiplier": 1.0,
